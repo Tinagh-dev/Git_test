@@ -1,2 +1,2 @@
 print("Hello")
-#addin sth in github
+#adding sth in github
